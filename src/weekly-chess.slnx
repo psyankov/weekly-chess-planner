@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Weekly/Weekly.csproj" />
+  <Project Path="Weekly.Test/Weekly.Test.csproj" />
+</Solution>

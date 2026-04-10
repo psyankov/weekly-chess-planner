@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Weekly Plan": {
+      "commandName": "Project",
+      "commandLineArgs": "plan"
+    }
+  }
+}
